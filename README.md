@@ -2,7 +2,7 @@
   <h1 align="center">Heejung's Portfolio ✨</h1>
 
   <p align="center">
-이 포트폴리오는 <a href="https://github.com/congchu/web-porfolio" > <포트폴리오 제작 템플릿></a> 에서 fork하여 제작하였습니다.
+이 포트폴리오는 <a href="https://github.com/congchu/web-porfolio" > <포트폴리오 제작 템플릿></a> 에서 clone하여 제작하였습니다.
     <br/>Github 페이지로 호스팅 됩니다. 
     <br/>웹 사이트는 <a href="https://heejung0413.github.io/web-porfolio-1/">DEMO</a>에서 확인하실 수 있습니다.
   <br/>
